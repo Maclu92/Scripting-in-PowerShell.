@@ -1,6 +1,6 @@
-﻿#Author: Michael Zulian
-#Date: 07/02/2017
-#Purpose: Create a log file which records System Info.
+<#Author: Michael Zulian
+Date: 07/02/2017
+Purpose: Create a log file which records System Info.#> 
 
 #Create Variables for Log Path Directory, Log Path File, Disk Information, Bios #Information #and Installed Products (Applications) Information and Today's Date. Use CIM cmdlets 
 ########################################################################
