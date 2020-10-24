@@ -1,2 +1,2 @@
 # Scripting-in-PowerShell.
-Scripts used at school. Feel free to comment with tips and suggestions.  
+Random pwsh scripts, mostly for learning purposes
